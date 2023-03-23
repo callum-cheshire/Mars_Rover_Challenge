@@ -1,0 +1,11 @@
+I've had to settle with "done > perfect" for the time being due to time constraints, with the SoC graduation event being this afternoon, but there are some things I would include with more time to improve the program.
+
+
+If the current prompt instructions are followed, the game works, however usually things aren't followed exactly and users tend to find unexpected issues, ways to mitigate this could be:
+
+- Input Validation (using typoe checking or potentially regex)
+- Error Handling (such as try/catch)
+- Unit testing (similar to how codewars tests their 'Katas' to ensure you have completed the challenge succesfully)
+
+
+Beyond these core improvements to robustness would be things like UI etc, but basic functionality has been achieved.
