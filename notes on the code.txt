@@ -3,7 +3,7 @@ I've had to settle with "done > perfect" for the time being due to time constrai
 
 If the current prompt instructions are followed, the game works, however usually things aren't followed exactly and users tend to find unexpected issues, ways to mitigate this could be:
 
-- Input Validation (using typoe checking or potentially regex)
+- Input Validation (using type checking or potentially regex)
 - Error Handling (such as try/catch)
 - Unit testing (similar to how codewars tests their 'Katas' to ensure you have completed the challenge succesfully)
 
